@@ -7,4 +7,5 @@ to the population about the Parker Solar satellite for this we made the interact
 web page with augmented reality to show the satellite, 
 its components and likewise its characteristics, such as the great importance what does it mean
 
-![image](https://user-images.githubusercontent.com/46494068/162596860-3d5da310-ea1e-4041-8a36-192fc7957d12.png)
+![image](https://user-images.githubusercontent.com/46494068/162596865-1c06679f-4f48-4e55-aa5a-1c66c28e9f1a.png)
+
